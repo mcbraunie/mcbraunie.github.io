@@ -54,7 +54,7 @@ In order to cut the thin strips needed to create the soundwave, a zero-clearance
 
 A second mechanism was needed to enable the 4" alder stock to be able to fit snuggly against the table saw for each pass with the zero-clearance insert to ensure safe and consistent results in cutting thin strips. This was accomplished by building a cover that fit on top of the saw's existing adjustable fence which uses a T-track and adjustable hold-down mechanism to apply direct vertical pressure to the stock as it is fed through the blade, while a horizontal depth guage provided consistent pressure along the horizontal axis to help guide the stock.
 
-<table class="projTable">
+<!-- <table class="projTable">
   <tbody>
     <tr>
       <td class="carpentryProjImages">
@@ -77,7 +77,7 @@ A second mechanism was needed to enable the 4" alder stock to be able to fit snu
       </td>
     </tr>
   </tbody>
-  </table>
+  </table> -->
 
 ### Project Build
 
@@ -87,7 +87,7 @@ The piece was built in stages to allow for proper drying of the glue-ups at each
 #### Part III
 Strips were cut using the saw fence jig to create numerous thin (1/8") strips of the stock and then to lay out the large scale soundwave image print over the base panels. With the template on the base, the thin strips were measured following the template one-by-one until a section of approximately 9" was completed. Each section would then be glued-up using a fast-setting glue, and left to dry while more sections were started. This process continued until the entire soundwave was completed. When all sections had dried, any holes or imperfections were patched and the sections were all sanded using 150 - 400 grit sandpaper.
 
-<table class="projTable">
+<!-- <table class="projTable">
   <tbody>
     <tr>
       <td class="carpentryProjImages">
@@ -110,13 +110,13 @@ Strips were cut using the saw fence jig to create numerous thin (1/8") strips of
       </td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 #### Part IV
 
 While the soundwave sections cured, the main base was stained and finished using a polycrylic protective sealer. The sections were then aligned and afixed to the base using wood glue and brad nails (to hold the sections in place better while the glue set). The holes from the nails were filled with wood putty and sanded to prepared for staining.
 
-<table class="projTable">
+<!-- <table class="projTable">
   <tbody>
     <tr>
       <td>
@@ -139,13 +139,13 @@ While the soundwave sections cured, the main base was stained and finished using
       </td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 #### Part V
 
 To achieve a color gradient, the sections were stained first in the most prominent colors (purple, orange, yellow) and then the colors were overlayed with diluted amounts of denatured alcohol after each application to allow for them to "bleed-in" to one another more easily. A Final layer of polycrylic protective sealer was applied to the entire piece to seal all parts. Once everything had dried, it was buffed by hand with scotchbrite pads to acheive a glossy appearance.
 
-<table class="projTable">
+<!-- <table class="projTable">
   <tbody>
     <tr>
       <td>
@@ -168,4 +168,4 @@ To achieve a color gradient, the sections were stained first in the most promine
       </td>
     </tr>
   </tbody>
-</table>
+</table> -->
