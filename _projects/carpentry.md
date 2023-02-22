@@ -31,7 +31,8 @@ category: past-projects
 
 The scope of this project was to create a large wooden piece to be hung on a wall. The piece was to be of specific dimensions (3' x 6') and to include a specific line/phrase captured as a soundwave.
 
-### Materials & Tools
+## Materials & Tools
+
 #### Part I
 I researched the best wood for the project and decided to use Alder for several reasons:
 
@@ -79,7 +80,8 @@ A second mechanism was needed to enable the 4" alder stock to be able to fit snu
   </tbody>
   </table> -->
 
-### Project Build
+## Project Build
+
 
 #### Part II
 The piece was built in stages to allow for proper drying of the glue-ups at each stage with the large panels being cut to size and glued up first to create the base for the entire project. When the base had dried, it was then leveled by hand using a bench plane to take out any high spots and patched any cracks/holes and sanded with a random orbital sander from 150 - 400 grit to get a fine, smooth surface for stain application.
