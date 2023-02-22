@@ -1,0 +1,175 @@
+# If you have a `resume.json` file, copy it into `_data` and delete this file.
+# If you don't have a JSON Resume you can just edit this YAML file instead.
+# See also: <https://jsonresume.org/>.
+basics:
+  name: "Micah Braun"
+  label: "Programmer"
+  picture: "assets/img/profileNoBackground.png/240x240"
+  email: ""
+  # phone: "(912) 555-4321"
+  # website: "https://piedpiper.com"
+  summary: >
+    Sophomore studying Computer Development/Engineering and interested in 
+    working and collaborating on projects revolving around human/computer interactions
+    and accessibility.
+  location:
+    # address: "2712 Broadway St"
+    # postalCode: "CA 94115"
+    # city: "San Francisco"
+    # countryCode: "US"
+    # region: "California"
+  profiles:
+    # - network: "Twitter"
+    #   username: "RHendricksCEO"
+    #   url: ""
+    # - network: "LinkedIn"
+    #   username: "Richard Hendricks"
+    #   url: ""
+work:
+  - company: "Inside Out Inspection Services, LLC"
+    position: "Administrative Assistant"
+    website: "https://insideoutbi.com/"
+    startDate: "2019-06-01"
+    endDate: "2020-06-01"
+    summary: >
+      Inside Out Inspection Services - now Inside Out Inspection Training Services - previously
+      offered home inspections in the western Washington regions. The business has since moved
+      to offering training resources to prospective students.
+    highlights:
+      - "Maintained schedule for inspector and coordinated scheduling with clients via phone and email."
+      - "Created tracking spreadsheet with Google Sheets to display and track client data resulting in 10 - 20% greater efficiency in expense reconciliation each month."
+      - "Managed edits and changes to company website using WordPress and HTML."
+  
+  - company: "The University of Virginia"
+    position: "Admissions & Financial Aid Specialist"
+    website: "https://www.arch.virginia.edu/"
+    startDate: "2014-01-01"
+    endDate: "2016-05-01"
+    summary: >
+      The School of Architecture at the University of Virginia contains Undergraduate, Graduate, and Doctorate-level 
+      programs and concentrations in Architecture, Architectural History, Landscape Architecture, and Urban Planning.
+    highlights:
+      - "Wrote VBA scripts to automate office tasks, reducing seasonal work loads by 25%."
+      - "Researched and implemented a data filtering and matching method (using VBA) that reduced manual line-by-line transaction reconciliation time by up to 75%."
+      - "Performed frequent database queries and reports using the University’s Student Information System (SIS) database querying system to provide up-to-date statistical information for administrators."
+  
+  - company: "Self-Employed"
+    position: "Private Contractor"
+    website: ""
+    startDate: "2006-09-01"
+    endDate: "2011-11-01"
+    summary: >
+      Operated as a freelancing private contractor while working on Associate's degree out of high school.
+    highlights:
+      - "Performed landscaping: yard maintenance, commercial planting, event preparation, and pest control."
+      - "Managed and completed construction projects: drywall, mold remediation, electrical work, and interior and exterior painting."
+volunteer:
+  - organization: ""
+    position: ""
+    website: ""
+    startDate: ""
+    endDate: ""
+    summary: ""
+    highlights:
+      - ""
+education:
+  - institution: "Western Governors University"
+    area: "Software Development/Engineering"
+    studyType: "Bachelor"
+    startDate: "2022-11-01"
+    endDate: "2025-11-01"
+    gpa: ""
+    courses:
+      - "C777 - Web Development Applications"
+      - "C172 - Network and Security Foundations"
+  
+  - institution: "University of Mary Washington"
+    area: "Environmental Science"
+    studyType: "Bachelor"
+    startDate: "2012-01-01"
+    endDate: "2013-08-01"
+    gpa: ""
+    courses:
+      - "GISC 200 - Intro to GIS"
+
+awards:
+  - title: ""
+    date: ""
+    awarder: ""
+    summary: ""
+
+certificates:
+  - title: "Python Programming"
+    date: "2019-06-01"
+    awarder: "University of Washington Professional & Continuing Education"
+    summary: ""
+
+publications:
+  - name: ""
+    publisher: ""
+    releaseDate: ""
+    website: ""
+    summary: ""
+
+skills:
+  - name: "Front End Development"
+    level: "Intermediate"
+    keywords:
+      - "CSS"
+      - "Git"
+      - "HTML"
+      - "JavaScript"
+      - "Node"
+
+  - name: "Programming Languages"
+    level: "Intermediate"
+    keywords:
+        - "Java"
+        - "Python"
+
+  - name: "Databases & Visualization"
+    level: "Intermediate"
+    keywords:
+      - "Excel/VBA"
+      - "Python (pandas)"
+      - "SQL"
+
+  - name: "Webscraping"
+    level: "Intermediate"
+    keywords:
+      - "Python"
+      - "JavaScript"
+      - "Selenium"
+      - "BeautifulSoup"
+
+  - name: "App Development"
+    level: "Beginner"
+    keywords:
+      - "Firebase"
+      - "Flutter"
+      - "Swift"
+      - "React"
+      - "ReactNative"
+
+languages:
+  - language: "English"
+    fluency: "Native speaker"
+
+interests:
+  - name: "Design/UI"
+    keywords:
+      - "Accessibility"
+      - "Inclusivity"
+
+hobbies:
+  - name: "MISC"
+    keywords:
+      - "Woodworking"
+      - "Tool restoration"
+      - "Cooking"
+      - "Small electronics repair"
+# references:
+#   - name: "Erlich Bachman"
+#     reference: >
+#       It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
+#       Company proved that he will be a valuable addition to any company.
