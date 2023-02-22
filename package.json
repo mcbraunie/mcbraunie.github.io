@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "lightgallery": "^2.7.1",
     "re-template-tag": "^2.0.1"
   }
 }
