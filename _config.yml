@@ -329,6 +329,8 @@ exclude:
   - vendor/ruby/
   - yarn.lock
   - blog
+  - posts.md
+
 include:
   - .well-known
   - LICENSE.md
