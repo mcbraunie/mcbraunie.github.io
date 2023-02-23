@@ -329,7 +329,7 @@ exclude:
   - vendor/ruby/
   - yarn.lock
   - blog
-  - posts.md
+  - posts
 
 include:
   - .well-known
