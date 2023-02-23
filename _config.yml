@@ -322,6 +322,12 @@ exclude:
   - vendor
   - Gemfile
   - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - yarn.lock
 include:
   - .well-known
   - LICENSE.md
