@@ -328,6 +328,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - yarn.lock
+  - blog
 include:
   - .well-known
   - LICENSE.md
