@@ -164,7 +164,7 @@ hydejack:
 
   no_inline_css:       false
 
-  no_page_style:       false
+  no_page_style:       true
 
   no_break_layout:     true
 
@@ -186,7 +186,7 @@ hydejack:
 
   advertise:           false
 
-  hide_dates:          false
+  hide_dates:          true
 
   hide_last_modified:  false
 
