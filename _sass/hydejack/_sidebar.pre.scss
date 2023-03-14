@@ -71,22 +71,21 @@ hy-drawer {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: rgba(255, 255, 255, .75);
+  color: rgba(216, 220, 216, 0.85);
   text-align: center;
   min-height: 100vh;
   &.invert { color: rgba(32, 32, 32, .75) }
   // >>>
-
   a {
     // <<< inline
-    color: #fff; 
+    color: rgba(220, 219, 216, 0.85); 
     border-bottom-color: rgba(255, 255, 255, 0.2); 
     text-decoration-color: rgba(255, 255, 255, 0.2); 
     // >>>
     // <<< link
     &:hover { 
       border-bottom-color: #fff;
-      text-decoration-color: #fff;
+      text-decoration-color: rgba(209,165,138,1);
     }
     // >>>
   }
@@ -100,7 +99,7 @@ hy-drawer {
     // <<< link
     &:hover { 
       border-bottom-color: #222;
-      text-decoration-color: #222;
+      text-decoration-color: rgba(209,165,138,1);
     }
     // >>>
   }
@@ -171,7 +170,7 @@ hy-drawer.loaded .sidebar {
     }
 
     &:hover::after {
-      border-color: rgba(255, 255, 255, 1);
+      border-color: rgba(209,165,138,1);
       transition: border-color 50ms;
     }
   }

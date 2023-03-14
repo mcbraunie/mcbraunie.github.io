@@ -7,7 +7,7 @@ description: >
 hide_description: true
 left_column:
   - work
-# - volunteer
+  - intern
   - education
 #  - awards
   - certificates

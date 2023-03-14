@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Home
+title: Welcome
 sitemap: false
 ---
-#### Hello
-
-I am studying Software Development/Engineering and working on several projects to build my skillset. Past, present, and current/future projects are being showcased here under my 'Projects' section, so please feel free to take a look as I keep updating these.
+I am a Sophomore studying Software Development/Engineering and working on several projects to build my skillset. Past, present, and current/future projects are being showcased here under my 'Projects' section, so please feel free to take a look as I keep updating these.
 
 Many of my previous projects in human/computer interactions have involved finding ways to improve the quality of the work environment by identifying time-intensive tasks and reducing redundancies and the need for repetetive tasks. I believe this can be accomplished in many areas (be it a simple spreadsheet, web-driven technologies, or building a physical end-product in my home garage).
 

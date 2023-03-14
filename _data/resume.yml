@@ -63,15 +63,26 @@ work:
     highlights:
       - "Performed landscaping: yard maintenance, commercial planting, event preparation, and pest control."
       - "Managed and completed construction projects: drywall, mold remediation, electrical work, and interior and exterior painting."
-volunteer:
-  - organization: ""
-    position: ""
-    website: ""
-    startDate: ""
-    endDate: ""
-    summary: ""
+intern:
+  - organization: "University of Mary Washington"
+    position: "Student Research Intern"
+    website: "https://www.slideshare.net/hrichters/research-and-creatitvity-day-poster-29696943"
+    startDate: "2013-06-01"
+    endDate: "2013-08-01"
+    summary: "A Comparative Analysis of the Health of the Ni River and Massaponax Creek in Spotsylvania County"
     highlights:
-      - ""
+      - "Collected macrobenthic samples along routes of the Ni River and Massaponax Creek. Conducted chemical
+      analysis of water samples. Deduced estimates of fecal coliform bacteria present in waters by taking cultures and
+      growing them in the lab."
+# volunteer:
+#   - organization: ""
+#     position: ""
+#     website: ""
+#     startDate: ""
+#     endDate: ""
+#     summary: ""
+#     highlights:
+#       - ""
 education:
   - institution: "Western Governors University"
     area: "Software Development/Engineering"
@@ -145,8 +156,8 @@ skills:
   - name: "App Development"
     level: "Beginner"
     keywords:
-      - "Firebase"
-      - "Flutter"
+#      - "Firebase"
+#      - "Flutter"
       - "Swift"
       - "React"
       - "ReactNative"

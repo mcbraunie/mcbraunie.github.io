@@ -119,6 +119,7 @@ welcome:
   more_posts:          See <!--posts_title--> for more
 
 resume:
+  intern:              Intern
   location:            Location
   location_separator:  ', '
   email:               Email
@@ -162,6 +163,7 @@ resume:
     website:           icon-home3
     work:              icon-briefcase
     volunteer:         icon-earth
+    intern:            icon-briefcase
     education:         icon-library
     awards:            icon-trophy
     publications:      icon-book
