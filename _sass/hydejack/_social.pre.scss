@@ -36,8 +36,18 @@
         border-bottom-width: 2px;
         border-bottom-style: solid;
       }
-        :hover {
-        border-color: rgba(209,165,138,1);
+      &::after {
+        content: '';
+        display: block;
+        border-bottom: 2px solid;
+        margin: 0 auto .5rem;
+        width: 4rem;
+        border-color: rgba(255, 255, 255, 0.2);
+        transition: border-color 250ms;
+      }
+  
+      &:hover::after {
+        border-color: rgba(209, 165, 138, 1);
         transition: border-color 50ms;
       }
     }
