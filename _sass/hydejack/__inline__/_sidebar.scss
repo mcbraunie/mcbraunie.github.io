@@ -174,11 +174,11 @@ hy-drawer {
     transition: border-color 250ms;
   }
 
-  &:hover::after {
-    // sidebar under-content highlight on :hover && active
-    border-color: rgba(209, 165, 138, 1) !important;
-    transition: border-color 50ms;
-  }
+  // &:hover::after {
+  //   // sidebar under-content highlight on :hover && active
+  //   border-color: rgba(209, 165, 138, 1) !important;
+  //   transition: border-color 50ms;
+  // }
 }
 
 #_main.no-drawer {
