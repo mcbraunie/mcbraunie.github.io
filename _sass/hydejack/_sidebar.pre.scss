@@ -82,12 +82,12 @@ hy-drawer {
     border-bottom-color: rgba(255, 255, 255, 0.2); 
     text-decoration-color: rgba(255, 255, 255, 0.2); 
     // >>>
-    // <<< link
-    &:hover { 
-      border-bottom-color: rgba(209,165,138,1) !important;
-      text-decoration-color: rgba(209,165,138,1) !important;
-    }
-    // >>>
+    // // <<< link
+    // &:hover { 
+    //   border-bottom-color: rgba(209,165,138,1) !important;
+    //   text-decoration-color: rgba(209,165,138,1) !important;
+    // }
+    // // >>>
   }
 
   &.invert a {
@@ -97,10 +97,10 @@ hy-drawer {
     text-decoration-color: rgba(32, 32, 32, 0.2); 
     // >>>
     // <<< link
-    // &:hover { 
-    //   border-bottom-color: rgba(209,165,138,1);;
-    //   text-decoration-color: rgba(209,165,138,1);
-    // }
+    &:hover { 
+      border-bottom-color: rgba(209,165,138,1) !important;
+      text-decoration-color: rgba(209,165,138,1) !important;
+    }
     // >>>
   }
 }
