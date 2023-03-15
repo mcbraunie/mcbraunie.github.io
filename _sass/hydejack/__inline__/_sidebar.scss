@@ -45,14 +45,22 @@ hy-drawer {
       position: relative;
       width: 100%;
     }
+    
+
+    
   }
 
   @media screen and (min-width: $break-point-dynamic) {
     width: calc(50% - #{$half-content});
+
+    
   }
+
+  
 }
 
 .sidebar {
+  
   position: relative;
   display: flex;
   justify-content: center;
@@ -64,20 +72,28 @@ hy-drawer {
   
 
   a {
-    color: rgba(255, 255, 255, .75); 
+    
+    color: #fff; 
     border-bottom-color: rgba(255, 255, 255, 0.2); 
     text-decoration-color: rgba(255, 255, 255, 0.2); 
+    
+    
   }
 
   &.invert a {
+    
     color: #222;
     border-bottom-color: rgba(32, 32, 32, 0.2); 
     text-decoration-color: rgba(32, 32, 32, 0.2); 
+    
+    
   }
 }
 
 
+
 .sidebar-bg {
+  
   position: absolute;
   top: 0;
   left: calc(50% - 50vw);
@@ -117,12 +133,12 @@ hy-drawer {
     margin-bottom: 1.5rem
   }
 
-  .sidebar-title {
+  > a.sidebar-title {
     text-decoration: none;
     > h2 {
       margin: 0;
-      padding-bottom: 0.5rem;
-  }
+      padding-bottom: .5rem;
+    }
 
     &::after {
       content: '';
@@ -131,25 +147,19 @@ hy-drawer {
       margin: 0 auto .5rem;
       width: 4rem;
       border-color: rgba(255, 255, 255, 0.2);
-      transition: border-color 50ms;
+      transition: border-color 250ms;
     }
 
-    &:hover {
-      border-color: rgba(209, 165, 138, 1) !important;
+    &:hover::after {
+      border-color: rgba(255, 255, 255, 1);
       transition: border-color 50ms;
     }
   }
 }
 
-.sidebar.invert .sidebar-about > a.sidebar-title {
-  
-  &::after { 
-    border-color: rgba(32, 32, 32, 0.2) 
-  }
-  
-  &:hover::after { 
-    border-color: #222 
-  }
+.sidebar.invert .sidebar-about > a.sidebar-title{
+  &::after { border-color: rgba(32, 32, 32, 0.2) }
+  &:hover::after { border-color: #222 }
 }
 
 .sidebar-nav > ul {
@@ -161,15 +171,6 @@ hy-drawer {
   @extend .f4;
   display: inline-block;
   margin-bottom: .5rem;
-  &::after {
-    content: '';
-    display: block;
-    border-bottom: 2px solid;
-    margin: 0 auto .5rem;
-    width: 4rem;
-    border-color: rgba(255, 255, 255, 0.2);
-    transition: border-color 250ms;
-  }
 }
 
 #_main.no-drawer {

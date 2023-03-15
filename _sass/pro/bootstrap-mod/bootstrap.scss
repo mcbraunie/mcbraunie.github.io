@@ -53,8 +53,7 @@
 }
 
 .btn-primary:hover, .btn-primary.hover {
-  // color: #fff;
-  color:rgba(209, 165, 138, 1);
+  color: #fff;
   background-color: var(--accent-color-darkened);
   border-color: var(--accent-color-darkened);
 }
@@ -66,8 +65,7 @@
 }
 
 .btn-primary:active, .btn-primary.active {
-  // color: #fff;
-  color:rgba(209, 165, 138, 1);
+  color: #fff;
   background-color: var(--accent-color-darkened);
   border-color: var(--accent-color-darkened);
 }

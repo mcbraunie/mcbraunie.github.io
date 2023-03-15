@@ -38,12 +38,15 @@ hy-drawer {
 
   @media screen and (min-width: $break-point-3) {
     
+
+    
     --hy-drawer-peek-width: #{$sidebar-width};
     
   }
 
   @media screen and (min-width: $break-point-dynamic) {
     width: calc(50% - #{$half-content});
+
     
     --hy-drawer-peek-width: calc(50% - #{$half-content});
     
@@ -58,20 +61,27 @@ hy-drawer {
   
 }
 
-.sidebar { 
-  a {  
+.sidebar {
+  
+
+  a {
+    
+    
     &:hover { 
-      // sidebar under-content highlights on :hover && :active
-      border-bottom-color: rgba(209, 165, 138, 1) !important;
-      text-decoration-color: rgba(209, 165, 138, 1) !important;
+      border-bottom-color: #fff;
+      text-decoration-color: #fff;
     }
+    
   }
 
-  &.invert a {   
+  &.invert a {
+    
+    
     &:hover { 
       border-bottom-color: #222;
       text-decoration-color: #222;
     }
+    
   }
 }
 
@@ -90,6 +100,8 @@ hy-drawer.loaded .sidebar {
 //     background: linear-gradient(to bottom, rgba(32,32,32,0) 0%,rgba(32,32,32,0.5) 50%, rgba(32,32,32,0) 100%); 
   }
 }
+
+
 
 
 @media print {
