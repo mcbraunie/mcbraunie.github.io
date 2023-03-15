@@ -42,7 +42,7 @@ figure, .figure {
 }
 
 .figcaption {
-  @extend .faded, .fine, .centered;
+  @extend .faded, .fine, .centered !optional;
   margin-top: -0.5rem;
   margin-bottom: 2rem;
   white-space: -moz-pre-wrap; /* Firefox */
