@@ -175,7 +175,8 @@ hy-drawer {
   }
 
   &:hover::after {
-    border-color: rgba(209, 165, 138, 1);
+    // sidebar under-content highlight on :hover && active
+    border-color: rgba(209, 165, 138, 1) !important;
     transition: border-color 50ms;
   }
 }

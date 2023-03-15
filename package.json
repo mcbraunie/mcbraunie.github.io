@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "darkreader": "^4.9.58",
     "lightgallery": "^2.7.1",
     "re-template-tag": "^2.0.1"
   }
