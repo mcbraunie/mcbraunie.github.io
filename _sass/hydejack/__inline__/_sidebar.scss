@@ -143,8 +143,8 @@ hy-drawer {
       transition: border-color 250ms;
     }
 
-    &:hover::after {
-      border-color: rgba(209, 165, 138, 1);
+    &:hover {
+      border-color: rgba(209, 165, 138, 1) !important;
       transition: border-color 50ms;
     }
   }
