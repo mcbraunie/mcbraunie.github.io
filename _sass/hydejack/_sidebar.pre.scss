@@ -84,8 +84,8 @@ hy-drawer {
     // >>>
     // <<< link
     &:hover { 
-      border-bottom-color: rgba(209,165,138,1);
-      text-decoration-color: rgba(209,165,138,1);
+      border-bottom-color: rgba(209,165,138,1) !important;
+      text-decoration-color: rgba(209,165,138,1) !important;
     }
     // >>>
   }
@@ -97,10 +97,10 @@ hy-drawer {
     text-decoration-color: rgba(32, 32, 32, 0.2); 
     // >>>
     // <<< link
-    &:hover { 
-      border-bottom-color: rgba(209,165,138,1);;
-      text-decoration-color: rgba(209,165,138,1);
-    }
+    // &:hover { 
+    //   border-bottom-color: rgba(209,165,138,1);;
+    //   text-decoration-color: rgba(209,165,138,1);
+    // }
     // >>>
   }
 }
@@ -170,7 +170,7 @@ hy-drawer.loaded .sidebar {
     }
 
     &:hover::after {
-      border-color: rgba(209,165,138,1);
+      border-color: rgba(209,165,138,1) !important;
       transition: border-color 50ms;
     }
   }
