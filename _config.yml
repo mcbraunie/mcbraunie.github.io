@@ -63,11 +63,12 @@ paginate_path:         /blog/:num/
 #####################################################################################################
 
 #                                        Alternate Colors
-#                                        Navy Blue #183a53 rgb(24,58,83)
+#                                        Navy Blue #183a53 rgba(24,58,83,0.85)
 #                                        Blue Grotto #5c97b8 rgb(92,151,184)
 #                                        Peach #d1a58a rgb(209, 165, 138)
-#                                        Pewter #dcdbd8 rgb(220, 219, 216)
-
+#                                        Pewter #dcdbd8 rgba(220, 219, 216, 0.85)
+#                                        --dark-mode bg #2e373e 
+#                                        --btn-resume #6d8293
 remote_theme: hydecorp/hydejack@v9
 
 #####################################################################################################
@@ -77,8 +78,8 @@ remote_theme: hydecorp/hydejack@v9
 #####################################################################################################
 
 accent_image:         /
-accent_color:         rgb(92,151,184) 
-theme_color:          rgb(24,58,83)
+accent_color:         rgba(92,151,184, 0.75) 
+theme_color:          rgba(24,58,83,1)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>

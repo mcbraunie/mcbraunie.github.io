@@ -71,7 +71,7 @@ hy-drawer {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: rgba(255, 255, 255, .75);
+  color: rgba(220, 219, 216, 0.85);
   text-align: center;
   min-height: 100vh;
   &.invert { color: rgba(32, 32, 32, .75) }
@@ -79,14 +79,14 @@ hy-drawer {
 
   a {
     // <<< inline
-    color: #fff; 
+    color: rgba(220, 219, 216, 0.85); 
     border-bottom-color: rgba(255, 255, 255, 0.2); 
     text-decoration-color: rgba(255, 255, 255, 0.2); 
     // >>>
     // <<< link
     &:hover { 
-      border-bottom-color: #fff;
-      text-decoration-color: #fff;
+      border-bottom-color: rgb(209, 165, 138);
+      text-decoration-color: rgb(209, 165, 138);
     }
     // >>>
   }
@@ -171,7 +171,7 @@ hy-drawer.loaded .sidebar {
     }
 
     &:hover::after {
-      border-color: rgba(255, 255, 255, 1);
+      border-color: rgb(209, 165, 138);
       transition: border-color 50ms;
     }
   }

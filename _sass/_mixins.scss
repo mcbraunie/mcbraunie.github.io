@@ -14,15 +14,24 @@
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 @mixin light-mode() {
-  --body-color: #{$body-color};
-  --body-bg: #{$body-bg};
-  --border-color: #{$border-color};
-  --gray: #{$gray};
-  --gray-bg: #{$gray-bg};
-  --gray-text: #{$gray-text};
-  --menu-text: #{$menu-text};
-  --inv-body-color: #ccc;
-  --inv-body-bg: var(--dark-mode-body-bg);
+  // --body-color: #{$body-color};
+  // --body-bg: #{$body-bg};
+  // --border-color: #{$border-color};
+  // --gray: #{$gray};
+  // --gray-bg: #{$gray-bg};
+  // --gray-text: #{$gray-text};
+  // --menu-text: #{$menu-text};
+  --body-color: #2e373e;
+  --body-bg: rgba(193,193,193, 0.75);
+  --border-color: rgba(193, 193, 193, 0.6);
+  --gray: #2e373e;
+  --gray-bg: #2e373e;
+  --gray-text: #2e373e;
+  --menu-text: rgba(24,58,83,0.85);
+  // --inv-body-color: #ccc;
+  // --inv-body-bg: var(--dark-mode-body-bg);
+  --inv-body-color: rgba(220, 219, 216, 0.75);
+  --inv-body-bg: rgba(220, 219, 216, 0.75);
 
   .content {
     -webkit-font-smoothing: initial;

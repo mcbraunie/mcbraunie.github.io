@@ -49,7 +49,7 @@ figure, .figure {
 }
 
 .figcaption {
-  @extend .faded, .fine, .centered !optional;
+  @extend .faded, .fine, .centered;
   margin-top: -0.5rem;
   margin-bottom: 2rem;
 }
