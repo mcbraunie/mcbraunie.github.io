@@ -24,7 +24,7 @@
 
 hy-push-state a {
   color: var(--body-color); 
-  
+
   @supports not ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
     text-decoration: none; 
     border-bottom: 2px solid;

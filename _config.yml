@@ -78,8 +78,8 @@ remote_theme: hydecorp/hydejack@v9
 #####################################################################################################
 
 accent_image:         /
-accent_color:         rgba(92,151,184, 0.75) 
-theme_color:          rgba(24,58,83,1)
+accent_color:         #225b77
+theme_color:          rgb(24,58,83)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>

@@ -1,29 +1,26 @@
-# If you have a `resume.json` file, copy it into `_data` and delete this file.
-# If you don't have a JSON Resume you can just edit this YAML file instead.
-# See also: <https://jsonresume.org/>.
 basics:
   name: "Micah Braun"
   label: "Programmer"
   picture: "assets/img/profileNoBackground.png/240x240"
-  email: ""
-  # phone: "(912) 555-4321"
-  # website: "https://piedpiper.com"
+  # email: ""
+  # phone: ""
+  # website: ""
   summary: >
     Sophomore studying Computer Development/Engineering and interested in 
     working and collaborating on projects revolving around human/computer interactions
     and accessibility.
   location:
-    # address: "2712 Broadway St"
-    # postalCode: "CA 94115"
-    # city: "San Francisco"
+    # address: ""
+    # postalCode: ""
+    # city: ""
     # countryCode: "US"
-    # region: "California"
+    # region: ""
   profiles:
-    # - network: "Twitter"
-    #   username: "RHendricksCEO"
+    # - network: ""
+    #   username: ""
     #   url: ""
-    # - network: "LinkedIn"
-    #   username: "Richard Hendricks"
+    # - network: ""
+    #   username: ""
     #   url: ""
 work:
   - company: "Inside Out Inspection Services, LLC"
@@ -74,6 +71,7 @@ intern:
       - "Collected macrobenthic samples along routes of the Ni River and Massaponax Creek. Conducted chemical
       analysis of water samples. Deduced estimates of fecal coliform bacteria present in waters by taking cultures and
       growing them in the lab."
+      
 # volunteer:
 #   - organization: ""
 #     position: ""
