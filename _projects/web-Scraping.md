@@ -6,15 +6,16 @@ description: >
   Process automation with JavaScript (Node + Express + Selenium) and Python (Selenium)
 # featured: true
 date: '19-06-2019'
-# image: 
-#   path: /assets/img/projectsImages/wheelchairFrontView.jpg
-#   srcset: 
-#     2848w: /assets/img/projectsImages/wheelchairFrontView.jpg
-#     2136w: /assets/img/projectsImages/wheelchairFrontView@0,75x.jpg
-#     1424w:  /assets/img/projectsImages/wheelchairFrontView@0,50x.jpg
-#     712w:  /assets/img/projectsImages/wheelchairFrontView@0,25x.jpg
-#     427w: /assets/img/projectsImages/wheelchairFrontView@0,15x.jpg
-#     285w: /assets/img/projectsImages/wheelchairFrontView@0,10x.jpg
+image: 
+  path: /assets/img/projectsImages/webscrapping/webAppExample.PNG
+  srcset: 
+
+    2848w: /assets/img/projectsImages/webscrapping/webAppExample.PNG
+    2136w: /assets/img/projectsImages/webscrapping/webAppExample@0,75x.PNG
+    1424w:  /assets/img/projectsImages/webscrapping/webAppExample@0,50x.PNG
+    712w:  /assets/img/projectsImages/webscrapping/webAppExample@0,25x.PNG
+    427w: /assets/img/projectsImages/webscrapping/webAppExample@0,15x.PNG
+    285w: /assets/img/projectsImages/webscrapping/webAppExample@0,10x.PNG
 # # links:
 #   - title: Link
 #     url: https://hydejack.com/
