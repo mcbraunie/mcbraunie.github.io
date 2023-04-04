@@ -1,11 +1,10 @@
 ---
 layout: tag-list
 type: tag
-title: Development
-slug: development
+title: Projects
+slug: projects
 category: development
 sidebar: true
-order: 1
 description: >
    Project/Development related
 ---

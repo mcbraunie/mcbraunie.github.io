@@ -1,13 +1,10 @@
 ---
 layout: projects
-type: category
-title: Projects
-slug: development
+title: Development
+show_collection: projects
 no_groups: true
-sidebar: true
-order: 1
 description: >
   Anything about Projects/Development
 ---
 
-All projects
+### Here is something

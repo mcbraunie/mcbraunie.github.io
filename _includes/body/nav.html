@@ -1,8 +1,5 @@
 <span class="sr-only">{{ site.data.strings.navigation | default:"Navigation" }}{{ site.data.strings.colon | default:":" }}</span>
 <ul>
-  <!-- {% if site.menu %}
-   {% include body/sub-menu.html menu=site.menu %}
-  {% else %} -->
   {% assign nodes = site.html_pages | concat: site.documents | where: "sidebar", true | sort: "order" %}
   {% assign tag_nodes = nodes | where: "type", "tag" %}
   {% for node in nodes %}
@@ -37,5 +34,4 @@
       </li>
     {% endunless %}
   {% endfor %}
-  <!-- {% endif %} -->
-  </ul>
+</ul>
