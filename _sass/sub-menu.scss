@@ -28,16 +28,16 @@
     opacity: 1;
 }
 
-.has_submenu > a::after{
-    font-family: 'icomoon' !important;
-    display: inline-block;
-    position: absolute;
-    content: "\ea29";
-    margin-left: 1.5rem;
-    margin-top: 0.7%;
-    font-size: 90%;
-    vertical-align: middle;
-}
+// .has_submenu > a::after{
+//     font-family: 'icomoon' !important;
+//     display: inline-block;
+//     position: absolute;
+//     content: "\ea29";
+//     margin-left: 1.5rem;
+//     margin-top: 0.7%;
+//     font-size: 90%;
+//     vertical-align: middle;
+// }
 
 .sidebar-nav > ul > .has_submenu > .sub-menu{
     margin-left: -0.2rem;  

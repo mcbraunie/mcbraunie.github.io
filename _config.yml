@@ -37,20 +37,18 @@ author:
 
 
 menu:
-  # - title:             Projects
-  #   url:               /projects/
-  #   menu:
-  #     title:           Coding
-  #     url:             /projects/
-  #     title:           Hobbies
-  #     url:             /projects/
-  # - title:             Résumé
-  #   url:               /resume/
+  - title:             Projects
+    url:               /projects/
+    menu:
+    -  title:           Development
+       url:             /projects/
+  - title:             Résumé
+    url:               /resume/
   # - title:             Contact
   #   url:               /contact/
   # - title:             Portfolio
   #   url:               /portfolio/
-  #- title:             Documentation
+  # - title:             Documentation
   #  url:               /docs/
 
 # Add links to the footer.
@@ -155,8 +153,8 @@ lightbox: true
 # These settings are specific to Hydejack.
 
 hydejack:
-  post_addons:         [about, newsletter, related, random, comments]
-  project_addons:      [about, newsletter, other, comments]
+  post_addons:         [about, newsletter, related, random]
+  project_addons:      [about, newsletter, other]
   no_mark_external:    false
   no_push_state:       false
   no_drawer:           false
@@ -236,12 +234,12 @@ plugins:
   - jekyll-feed
   - jekyll-optional-front-matter
   - jekyll-paginate
-  - jekyll-readme-index
+  # - jekyll-readme-index
   - jekyll-redirect-from
   - jekyll-relative-links
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-titles-from-headings
+  # - jekyll-titles-from-headings
   - jekyll-include-cache
   - jekyll-last-modified-at
 

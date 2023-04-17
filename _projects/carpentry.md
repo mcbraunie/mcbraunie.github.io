@@ -1,13 +1,14 @@
 ---
 layout: project
 title: 'Carpentry'
-caption: Carpentry & Design
-description: >
-  Wooden panel with rendering of soundwave in wooden strips.
+# description: >
+#   Wooden panel with rendering of soundwave in wooden strips.
 # featured: true
 date: '12-05-2021'
 image: 
   path: /assets/img/projectsImages/carpentry/projectFinal.jpg
+  alt: 'Image of wooden panel art.'
+  caption: 'Completed project'
   srcset: 
     2848w: /assets/img/projectsImages/carpentry/projectFinal.jpg
     2136w: /assets/img/projectsImages/carpentry/projectFinal@0,75x.jpg
@@ -15,13 +16,7 @@ image:
     712w:  /assets/img/projectsImages/carpentry/projectFinal@0,25x.jpg
     427w: /assets/img/projectsImages/carpentry/projectFinal@0,15x.jpg
     285w: /assets/img/projectsImages/carpentry/projectFinal@0,10x.jpg
-# links:
-#   - title: Link
-#     url: https://hydejack.com/
-
 sitemap: false
-# no_groups: true
-category: past-projects
 ---
 
 

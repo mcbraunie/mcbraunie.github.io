@@ -13,6 +13,7 @@ layout: base
 {% assign nsd = site.hydejack.no_structured_data | default:site.no_structured_data %}
 {% assign proj_format = site.data.strings.date_formats.project | default:"%Y" %}
 {% assign from_to_separator = strings.from_to_separator | default:strings.resume.from_to_separator | default:"–" %}
+{% assign alt_text = page.image.alt | default: '' %}
 
 <article
   id="project"
@@ -61,7 +62,7 @@ layout: base
         {% include_cached components/hy-img.html
           img=screenshot
           sizes="(min-width: 90em) 48rem, (min-width: 54em) 42rem, (min-width: 42em) 38rem, 100vw"
-          alt=project.title
+          alt=alt_text
           property="image"
           width=864
           height=486
