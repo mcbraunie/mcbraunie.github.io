@@ -34,14 +34,18 @@ author:
   name:                Micah Braun
   # email:             
 
-
-
 menu:
   - title:             Projects
     url:               /projects/
     menu:
-    -  title:           Development
-       url:             /projects/
+      - title:           TPMS Wheelchair App
+        url:             /projects/iOS-TPMS-Wheelchair-Application/
+      - title:           Woodworking/Art Design
+        url:             /projects/carpentry/
+      - title:           Web Scraping (nodeJS, Python)
+        url:             /projects/web-Scraping/
+      - title:           Spreadsheet Design (VBA)
+        url:             /projects/spreadsheets/
   - title:             Résumé
     url:               /resume/
   # - title:             Contact

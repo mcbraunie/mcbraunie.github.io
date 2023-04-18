@@ -17,4 +17,36 @@ body .content {
     opacity: 0.7;
   }
 
+  .igRow1 {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .igColumn1 {
+    flex: 50%;
+  }
+
+  .igColumn1 > img {
+    padding: 7px;
+    height: 95%;
+    width: 30%;
+    vertical-align: middle;
+  }
+
+  .igRow2 {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .igColumn2 {
+    flex: 50%;
+  }
+
+  .igColumn2 > img {
+    padding: 7px;
+    height: 45%;
+    width: 45%;
+    vertical-align: middle;
+  }
+
   @import "sub-menu";

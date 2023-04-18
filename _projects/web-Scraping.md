@@ -21,7 +21,6 @@ image:
 
 sitemap: false
 # no_groups: true
-category: current-projects
 ---
 
 ## Web Scrapping
