@@ -6,7 +6,7 @@ basics:
   # phone: ""
   # website: ""
   summary: >
-    Sophomore studying Computer Development/Engineering and interested in 
+    Sophomore studying Computer Engineering and interested in 
     working and collaborating on projects revolving around human/computer interactions
     and accessibility.
   location:
@@ -150,6 +150,7 @@ skills:
       - "JavaScript"
       - "Selenium"
       - "BeautifulSoup"
+      - "Puppeteer"
 
   - name: "App Development"
     level: "Beginner"

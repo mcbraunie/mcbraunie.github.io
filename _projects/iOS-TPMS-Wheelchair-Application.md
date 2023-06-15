@@ -26,4 +26,4 @@ category: current-projects
 
 ### TPMS/BTLE Application (Swift, iOS)
 
-More coming soon! :)
+More coming soon!

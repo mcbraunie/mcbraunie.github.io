@@ -42,10 +42,10 @@ menu:
         url:             /projects/iOS-TPMS-Wheelchair-Application/
       - title:           Woodworking/Art Design
         url:             /projects/carpentry/
-      - title:           Web Scraping (nodeJS, Python)
-        url:             /projects/web-Scraping/
-      - title:           Spreadsheet Design (VBA)
-        url:             /projects/spreadsheets/
+      - title:           HTML/CSS/JS
+        url:             /projects/guessing-game/
+      # - title:           Spreadsheet Design (VBA)
+      #   url:             /projects/spreadsheets/
   - title:             Résumé
     url:               /resume/
   # - title:             Contact
