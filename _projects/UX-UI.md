@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'UX-UI Design'
+title: 'UX Design'
 date: '06-25-2023'
 image: 
   path: /assets/img/projectsImages/ux-ui/homepage.png
@@ -17,3 +17,5 @@ sitemap: false
 description: >
   UX/UI high-fidelity prototype of fictional island of "Taniti".
 ---
+
+## UX/UI
