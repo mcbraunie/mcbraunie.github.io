@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'UX-UI'
+title: 'UX-UI Design'
 date: '06-25-2023'
 image: 
   path: /assets/img/projectsImages/ux-ui/homepage.png
