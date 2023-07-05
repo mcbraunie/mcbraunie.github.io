@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'UX/UI'
+title: 'UX-UI'
 # description: >
 #   Wooden panel with rendering of soundwave in wooden strips.
 # featured: true
