@@ -1,9 +1,6 @@
 ---
 layout: project
 title: 'UX-UI'
-# description: >
-#   Wooden panel with rendering of soundwave in wooden strips.
-# featured: true
 date: '06-25-2023'
 image: 
   path: /assets/img/projectsImages/ux-ui/homepage.png
