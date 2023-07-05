@@ -1,10 +1,11 @@
 ---
 layout: project
-title: 'UX Design'
+title: 'UX/UI Design'
+caption: User Experience/User Interface
 date: '06-25-2023'
 image: 
   path: /assets/img/projectsImages/ux-ui/homepage.png
-  alt: 'Image of high-fidelity prototype featuring a fictional island's  homepage for prospective users. Image containts an interactive navigational bar with a background of a beach and ocean featuring the title "Taniti".'
+  alt: 'Image of high-fidelity prototype featuring a fictional island's  homepage for prospective users.'
   caption: 'Completed project'
   srcset: 
     2848w: /assets/img/projectsImages/ux-ui/homepage.png

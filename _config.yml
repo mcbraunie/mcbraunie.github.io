@@ -44,8 +44,8 @@ menu:
         url:             /projects/carpentry/
       - title:           HTML/CSS/JS
         url:             /projects/guessing-game/
-      - title:           UX Design
-        url:             /projects/ux-ui/
+      - title:           UX/UI Design
+        url:             /projects/design/
       # - title:           Spreadsheet Design (VBA)
       #   url:             /projects/spreadsheets/
   - title:             Résumé
