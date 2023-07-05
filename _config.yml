@@ -46,8 +46,6 @@ menu:
         url:             /projects/guessing-game/
       - title:           UX/UI Design
         url:             /projects/design/
-      # - title:           Spreadsheet Design (VBA)
-      #   url:             /projects/spreadsheets/
   - title:             Résumé
     url:               /resume/
   # - title:             Contact
@@ -70,7 +68,7 @@ copyright:             © 2023. All rights reserved.
 permalink:             /blog/:categories/:year-:month-:day-:title/
 paginate:              10
 paginate_path:         /blog/:num/
-
+relative_permalinks:  false
 
 # Theme
 # ---------------------------------------------------------------------------------------
