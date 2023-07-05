@@ -35,19 +35,19 @@ author:
   # email:             
 
 menu:
-  - title:             Projects
-    url:               /projects/
+  - title: Projects
+    url: /projects/
     menu:
-      - title:           TPMS Wheelchair App
-        url:             /projects/iOS-TPMS-Wheelchair-Application/
-      - title:           Woodworking/Art Design
-        url:             /projects/carpentry/
-      - title:           HTML/CSS/JS
-        url:             /projects/guessing-game/
-      - title:           UX/UI Design
-        url:             /projects/design/
-  - title:             Résumé
-    url:               /resume/
+      - title: TPMS Wheelchair App
+        url: /projects/iOS-TPMS-Wheelchair-Application/
+      - title: Woodworking/Art Design
+        url: /projects/carpentry/
+      - title: HTML/CSS/JS
+        url: /projects/guessing-game/
+      - title: UX/UI Design
+        url: /projects/design/
+  - title: Résumé
+    url: /resume/
   # - title:             Contact
   #   url:               /contact/
   # - title:             Portfolio
