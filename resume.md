@@ -23,7 +23,7 @@ right_column:
 no_language_icons: false
 no_skill_icons: false
 buttons:
-  print: true
+  print: false
   pdf: /assets/Resume.pdf
   # For the vCard you can either provide a link to a .vcf file in assets (see `pdf` above),
   # or use `h2vx.com` to generate a vCard on the fly based on the structured data of the resume page.
