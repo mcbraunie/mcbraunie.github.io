@@ -33,7 +33,7 @@ work:
     position: "Data Specialist"
     website: ""
     startDate: "2023-12-01"
-    endDate: "`r format(Sys.time(), '%d %B, %Y')`"
+    endDate: "2024-2-29"
     summary: >
       Provided administrative support for a visual production company contracted to produce content
       for the American Diabetes Association. 
