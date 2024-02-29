@@ -32,7 +32,7 @@ work:
   - company: "Freelance"
     position: "Data Technician"
     website: ""
-    startDate: "2023-12-01"
+    startDate: "2023-9-01"
     endDate: "2024-2-29"
     summary: >
       Provided administrative support for a visual production company contracted to produce content
@@ -114,15 +114,23 @@ intern:
 #     highlights:
 #       - ""
 education:
-  - institution: "Western Governors University"
+  - institution: "Lake Washington Institute of Technology/Western Governors University"
     area: "Software Development/Engineering"
     studyType: "Bachelor"
-    startDate: "2022-11-01"
-    endDate: "2025-11-01"
+    startDate: "2021-9-01"
+    endDate: "2023-9-01"
     gpa: ""
     courses:
-      - "C777 - Web Development Applications"
-      - "C172 - Network and Security Foundations"
+      - "CSD 122 - JavaScript and jQuery"
+      - "CSD 322 - Computer and Network Architecture"
+      - "CSD 331 - Database Modeling and Design"
+      - "CSD 323 - Data Analytics"
+      - "MATH 220 - Linear Algebra"
+      - "C 484 - Organizational Behavior and Leadership"
+      - "C 172 - Network and Security Foundations"
+      - "C 773 - User Interface Design" 
+      - "C 777 - Web Development Applications"
+
   
   - institution: "University of Mary Washington"
     area: "Environmental Science"
