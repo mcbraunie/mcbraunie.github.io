@@ -280,10 +280,15 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  activesupport
   bundler
+  dnsruby
+  drb
   ducktape
   exifr
+  facets
   github-pages
+  i18n
   jekyll (~> 3.8)
   jekyll-compose
   jekyll-default-layout
@@ -301,7 +306,10 @@ DEPENDENCIES
   jekyll-sitemap
   jekyll-theme-primer
   jekyll-titles-from-headings
-  webrick (>= 1.6.1)
+  listen
+  ref
+  webrick (>= 1.8.1)
+  whittle
 
 BUNDLED WITH
    2.1.4

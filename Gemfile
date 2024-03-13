@@ -11,9 +11,19 @@ source "https://rubygems.org"
 gem "jekyll", "~> 3.8"
 # gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack"
 # Fixes `jekyll serve` in ruby 3
-gem "webrick", ">= 1.6.1"
+gem "webrick", ">= 1.8.1"
 gem "ducktape"
 gem "bundler"
+gem "drb"
+gem "i18n"
+gem "activesupport"
+gem "dnsruby"
+gem "facets"
+gem "ref"
+gem "whittle"
+gem "exifr"
+gem "listen"
+
 
 group :jekyll_plugins do
   gem "github-pages"
