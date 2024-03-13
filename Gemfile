@@ -13,7 +13,7 @@ gem "jekyll", "~> 3.8"
 # Fixes `jekyll serve` in ruby 3
 gem "webrick", ">= 1.6.1"
 gem "ducktape"
-gem "bundler", "~> 2.4.1"
+gem "bundler"
 
 group :jekyll_plugins do
   gem "github-pages"
@@ -28,7 +28,7 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
   gem "jekyll-titles-from-headings"
-  gem "jekyll-theme-primer0.6.0"
+  gem "jekyll-theme-primer"
   gem "jekyll-github-metadata"
   gem "jekyll-remote-theme"
 
