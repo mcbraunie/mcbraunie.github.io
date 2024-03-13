@@ -33,7 +33,7 @@ work:
     position: "Data Technician"
     website: ""
     startDate: "2023-9-01"
-    endDate: "2024-2-29"
+    endDate: "2024-3-12"
     summary: >
       Provided administrative support for a visual production company contracted to produce content
       for the American Diabetes Association. 
@@ -148,10 +148,25 @@ awards:
     summary: ""
 
 certificates:
+  - title: "Introduction to Analytics"
+  date: "2024-01-01"
+  awarder: "Coursera/IBM"
+  summary: ""
+
+  - title: "Business Analytics"
+  date: "2023-11-01"
+  awarder: "Coursera/Tableau"
+  summary: ""
+
+  - title: "ITIL 4 Foundation Certificate IT Service Management"
+    date: "2023-08-11"
+    awarder: "PeopleCert"
+    summary: "ITIL 4 Foundation introduces an end-to-end operating model for the creation, delivery and continual improvement of technology-enabled products and services"
+  
   - title: "Python Programming"
-    date: "2019-06-01"
-    awarder: "University of Washington Professional & Continuing Education"
-    summary: ""
+  date: "2019-06-01"
+  awarder: "University of Washington Professional & Continuing Education"
+  summary: ""
 
 publications:
   - name: ""
