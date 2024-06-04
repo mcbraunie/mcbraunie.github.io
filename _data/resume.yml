@@ -6,13 +6,7 @@ basics:
   # phone: ""
   # website: ""
   summary: >
-    Experienced professional with a passion for troubleshooting errors and finding 
-    solutions, adept at analyzing, processing, and managing data using Python, SQL, 
-    and Microsoft Excel. Skilled in stakeholder engagement, project management, and 
-    communication, with a strong understanding of web technologies, diagnostics, 
-    and end-user technology products. Seeking to leverage expertise in data analysis 
-    and reporting to drive operational efficiency and support evidence-based 
-    decision-making.
+    Experienced professional with a passion for troubleshooting errors and finding solutions, adept at analyzing, processing, and managing data using Python, SQL, and Microsoft Excel. Skilled in stakeholder engagement, project management, and communication, with a strong understanding of web technologies, diagnostics, and end-user technology products. Seeking to leverage expertise in data analysis and reporting to drive operational efficiency and support evidence-based decision-making.
   location:
     # address: ""
     # postalCode: ""
@@ -34,7 +28,7 @@ work:
     startDate: "2023-9-01"
     endDate: "2024-6-30"
     summary: >
-      Provider of analyses, consulting, and deliverables for a variety of businesses and operating structures (for-profit and nonprofit). 
+      Provider of analyses, consulting, and deliverables for a variety of businesses and operating structures. 
     highlights:
       - "Provided data templating and organization crucial for visual production team, ensuring accuracy and timely deliverables for a contract with the American Diabetes Association."
       - "Integrated multiple datasets using Python and MS Excel to categorize and structure data leading to 30% greater efficiency in data organization."
@@ -47,7 +41,7 @@ work:
     startDate: "2019-06-01"
     endDate: "2020-06-01"
     summary: >
-      Inside Out Inspection Services (IOIS) offered home and building inspections and education to the greater Seattle area and surrounding counties. A small, locally owned business, IOIS had 4 employees during the tenure of this position and received high volumes of customer engagement and requests for services.
+      Inside Out Inspection Services offered home and building inspections and education to the greater Seattle area and surrounding counties. A small, locally owned business, IOIS had 4 employees during the tenure of this position and received high volumes of customer engagement and requests for services.
     highlights:
       - "Automated routine tasks and improved data processing utilizing Google Sheets, leading to a 10-20% increase in expense tracking and operational efficiency."
       - "Collaborated with stakeholders to optimize business-side data collection and retention using Google Suite tools."
