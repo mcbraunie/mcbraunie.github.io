@@ -1,0 +1,228 @@
+basics:
+  name: "Micah Braun"
+  label: "Freelance"
+  picture: "assets/img/profileNoBackground.png/240x240"
+  # email: ""
+  # phone: ""
+  # website: ""
+  summary: >
+    Experienced professional with a passion for troubleshooting errors and finding solutions, adept at analyzing, processing, and managing data using Python, SQL, and Microsoft Excel. Skilled in stakeholder engagement, project management, and communication, with a strong understanding of web technologies, diagnostics, and end-user technology products. Seeking to leverage expertise in data analysis and reporting to drive operational efficiency and support evidence-based decision-making.
+  location:
+    # address: ""
+    # postalCode: ""
+    # city: ""
+    # countryCode: "US"
+    # region: ""
+  profiles:
+    # - network: ""
+    #   username: ""
+    #   url: ""
+
+work:
+  - company: "Freelance"
+    position: "Data Technician"
+    website: ""
+    startDate: "2023-9-01"
+    endDate: "2024-6-30"
+    summary: >
+      Provider of analyses, consulting, and deliverables for a variety of businesses and operating structures. 
+    highlights:
+      - "Provided data templating and organization crucial for visual production team, ensuring accuracy and timely deliverables for a contract with the American Diabetes Association."
+      - "Integrated multiple datasets using Python and MS Excel to categorize and structure data leading to 30% greater efficiency in data organization."
+      -	"Conducted requirements gathering for program financial analyses, creating data visualizations and dashboards in MS Excel using pivot tables and charts."
+      - "Routinely performs requirements gathering with stakeholders to ensure deliverables are meeting contract expectations and aligned with the goals of the individual or organization."
+
+  - company: "Inside Out Inspection Services, LLC"
+    position: "Administrative Assistant"
+    website: "https://insideoutbi.com/"
+    startDate: "2019-06-01"
+    endDate: "2020-06-01"
+    summary: >
+      Inside Out Inspection Services offered home and building inspections and education to the greater Seattle area and surrounding counties. A small, locally owned business, IOIS had 4 employees during the tenure of this position and received high volumes of customer engagement and requests for services.
+    highlights:
+      - "Automated routine tasks and improved data processing utilizing Google Sheets, leading to a 10-20% increase in expense tracking and operational efficiency."
+      - "Collaborated with stakeholders to optimize business-side data collection and retention using Google Suite tools."
+      - "Conducted hardware troubleshooting and optimization, enhancing IT assets."
+      -	"Provided end-user support, troubleshooting hardware and software issues, and maintaining a high level of customer satisfaction."
+      -	"Documented support requests and resolutions within a spreadsheet dashboard, tracking trends and identifying areas of suggested improvements to report to CRM software vendor."
+
+  - company: "Freelance"
+    position: "Electronics Repair Technician"
+    website: ""
+    startDate: "2016-06-01"
+    endDate: "2019-06-01"
+    summary: >
+      Performed simple-to-complex electronic repairs and installations on a wide variety of technology: automobile audio, cellphones, laptops, PCs, small electronics, gaming consoles, and power tools.
+    highlights:
+      - "Diagnosed and performed troubleshooting of hardware and software issues in personal computers, laptops, and other electronic devices."
+      - "Performed repairs, upgrades, and maintenance on various electronic devices including desktops, laptops, tablets, and smartphones."
+      -	"Optimized hardware configurations for Windows, Mac, Linux, Android, and iOS systems to enhance performance and user experience."
+
+  - company: "The University of Virginia"
+    position: "Admissions & Financial Aid Specialist"
+    website: "https://www.arch.virginia.edu/"
+    startDate: "2014-01-01"
+    endDate: "2016-05-01"
+    summary: >
+      The School of Architecture at the University of Virginia contains Undergraduate, Graduate, and Doctorate-level programs and concentrations in Architecture, Architectural History, Landscape Architecture, and Urban Planning.
+    highlights:
+      - "Created reports enabling better visualization of fiscal allocation and analysis of student demographics, offering valuable insights for admissions and budgeting decisions."
+      - "Spearheaded data filtering methods, reducing quarterly expense reconciliation time by up to 75%, resulting in more efficient processes."
+      - "Advised staff and faculty on use of complex datasets and provided support in incorporating new features, ensuring optimal utilization of reports while maintaining FERPA compliance."
+      - "Acted as a liaison between students, staff, and faculty and the larger University Financial Aid office, by communicating student needs and translating technical requirements back to students, staff, and faculty. "
+
+  - company: "Self-Employed"
+    position: "Private Contractor"
+    website: ""
+    startDate: "2006-09-01"
+    endDate: "2011-11-01"
+    summary: >
+      Operated as a freelancing private contractor while working on Associate's degree out of high school.
+    highlights:
+      - "Performed landscaping: yard maintenance, commercial planting, event preparation, and pest control."
+      - "Managed and completed construction projects: drywall, mold remediation, electrical work, and interior and exterior painting."
+
+intern:
+  - organization: "University of Mary Washington"
+  position: "Student Research Intern"
+  website: "https://www.slideshare.net/hrichters/research-and-creatitvity-day-poster-29696943"
+  startDate: "2013-06-01"
+  endDate: "2013-08-01"
+  summary: "A Comparative Analysis of the Health of the Ni River and Massaponax Creek in Spotsylvania County"
+  highlights:
+    - "Collected macrobenthic samples along routes of the Ni River and Massaponax Creek. Conducted chemical analysis of water samples. Deduced estimates of fecal coliform bacteria present in waters by taking cultures and growing them in the lab."
+    
+# volunteer:
+#   - organization: "Kids Rank"
+#     position: "Data Technician"
+#     website: ""
+#     startDate: "2024-04-18"
+#     endDate: "2024-06-30"
+#     summary: > 
+#     Providing consulting, organizational, and data analysis for the Executive Director of 501c(3) service-based nonprofit which provides social and emotional enrichment for children of military parents."
+    
+#     highlights:
+#       - "Provided consulting services for file management via visual description of file relationships 
+#         providing increased productivity through highlighting redundancies and inefficient navigation 
+#         paths utilizing hierarchy visualization software (draw.io)."
+
+education:
+  - institution: "Lake Washington Institute of Technology/Western Governors University"
+    area: "Software Development/Engineering"
+    studyType: "Bachelor"
+    startDate: "2021-9-01"
+    endDate: "2023-11-01"
+    gpa: ""
+    courses:
+      - "CSD 122 - JavaScript and jQuery"
+      - "CSD 322 - Computer and Network Architecture"
+      - "CSD 331 - Database Modeling and Design"
+      - "CSD 323 - Data Analytics"
+      - "MATH 220 - Linear Algebra"
+      - "C 484 - Organizational Behavior and Leadership"
+      - "C 172 - Network and Security Foundations"
+      - "C 773 - User Interface Design" 
+      - "C 777 - Web Development Applications"
+
+  
+  - institution: "University of Mary Washington"
+    area: "Environmental Science"
+    studyType: "Bachelor"
+    startDate: "2012-01-01"
+    endDate: "2013-08-01"
+    gpa: ""
+    courses:
+      - "GISC 200 - Intro to GIS"
+
+awards:
+  - title: ""
+    date: ""
+    awarder: ""
+    summary: ""
+
+certificates:
+  - title: "Business Analytics"
+    date: "2023-11-01"
+    awarder: "Coursera/Tableau"
+    summary: ""
+
+  - title: "ITIL 4 Foundation Certificate IT Service Management"
+    date: "2023-08-11"
+    awarder: "PeopleCert"
+    summary: ""
+
+  - title: "Python Programming"
+    date: "2019-06-01"
+    awarder: "University of Washington Professional & Continuing Education"
+    summary: ""
+
+publications:
+  - name: ""
+    publisher: ""
+    releaseDate: ""
+    website: ""
+    summary: ""
+
+skills:
+  - name: "Front End Development"
+    level: "Intermediate"
+    keywords:
+      - "CSS"
+      - "Git"
+      - "HTML"
+      - "JavaScript"
+      - "Node"
+
+  - name: "Programming Languages"
+    level: "Intermediate"
+    keywords:
+        - "Java"
+        - "Python"
+
+  - name: "Databases & Visualization"
+    level: "Intermediate"
+    keywords:
+      - "Excel/VBA"
+      - "Python (pandas)"
+      - "SQL"
+
+  - name: "Webscraping"
+    level: "Intermediate"
+    keywords:
+      - "Python"
+      - "JavaScript"
+      - "Selenium"
+      - "BeautifulSoup"
+      - "Puppeteer"
+
+  - name: "App Development"
+    level: "Beginner"
+    keywords:
+#      - "Firebase"
+#      - "Flutter"
+      - "Swift"
+      - "React"
+      - "ReactNative"
+
+languages:
+  - language: "English"
+    fluency: "Native speaker"
+
+interests:
+  - name: "Design/UI"
+    keywords:
+      - "Accessibility"
+      - "Inclusivity"
+
+hobbies:
+  - name: "MISC"
+    keywords:
+      - "Woodworking"
+      - "Tool restoration"
+      - "Cooking"
+      - "Small electronics repair"
+# references:
+#   - name: "Erlich Bachman"
+#     reference: >
+#       It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
+#       Company proved that he will be a valuable addition to any company.
