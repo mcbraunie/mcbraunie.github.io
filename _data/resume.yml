@@ -8,13 +8,13 @@ basics:
   # website: "https://micahbraun.com"
   summary: >
     Experienced professional with a passion for troubleshooting errors and finding solutions, adept at analyzing, processing, and managing data using Python, SQL, and Microsoft Excel. Skilled in stakeholder engagement, project management, and communication, with a strong understanding of web technologies, diagnostics, and end-user technology products. Seeking to leverage expertise in data analysis and reporting to drive operational efficiency and support evidence-based decision-making.
-  location:
+  # location:
     # address: ""
     # postalCode: ""
     # city: ""
-    countryCode: "US"
+    # countryCode: "US"
     # region: ""
-  profiles:
+  # profiles:
     # - network: "LinkedIn"
     #   username: "micahbraun"
     #   url: "https://www.linkedin.com/in/micahbraun/"
@@ -128,11 +128,11 @@ education:
     courses:
       - "GISC 200 - Intro to GIS"
 
-awards:
-  - title: ""
-    date: ""
-    awarder: ""
-    summary: ""
+# awards:
+#   - title: ""
+#     date: ""
+#     awarder: ""
+#     summary: ""
 
 certificates:
   - title: "Business Analytics"
@@ -150,17 +150,17 @@ certificates:
     awarder: "University of Washington Professional & Continuing Education"
     summary: ""
 
-publications:
-  - name: ""
-    publisher: ""
-    releaseDate: ""
-    website: ""
-    summary: ""
+# publications:
+#   - name: ""
+#     publisher: ""
+#     releaseDate: ""
+#     website: ""
+#     summary: ""
 
 skills:
   - name: "Data Analysis"
-  - level: "Intermediate"
-  - keywords:
+    level: "Intermediate"
+    keywords:
       - "Analytical Thinking"
       - "Attention to Detail"
       - "Technical Proficiency"
