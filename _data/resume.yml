@@ -17,11 +17,8 @@ basics:
     # - network: ""
     #   username: ""
     #   url: ""
-    # - network: ""
-    #   username: ""
-    #   url: ""
-work:
 
+work:
   - company: "Freelance"
     position: "Data Technician"
     website: ""
@@ -73,7 +70,7 @@ work:
       - "Spearheaded data filtering methods, reducing quarterly expense reconciliation time by up to 75%, resulting in more efficient processes."
       - "Advised staff and faculty on use of complex datasets and provided support in incorporating new features, ensuring optimal utilization of reports while maintaining FERPA compliance."
       - "Acted as a liaison between students, staff, and faculty and the larger University Financial Aid office, by communicating student needs and translating technical requirements back to students, staff, and faculty. "
-  
+
   - company: "Self-Employed"
     position: "Private Contractor"
     website: ""
@@ -87,14 +84,14 @@ work:
 
 intern:
   - organization: "University of Mary Washington"
-    position: "Student Research Intern"
-    website: "https://www.slideshare.net/hrichters/research-and-creatitvity-day-poster-29696943"
-    startDate: "2013-06-01"
-    endDate: "2013-08-01"
-    summary: "A Comparative Analysis of the Health of the Ni River and Massaponax Creek in Spotsylvania County"
-    highlights:
-      - "Collected macrobenthic samples along routes of the Ni River and Massaponax Creek. Conducted chemical analysis of water samples. Deduced estimates of fecal coliform bacteria present in waters by taking cultures and growing them in the lab."
-      
+  position: "Student Research Intern"
+  website: "https://www.slideshare.net/hrichters/research-and-creatitvity-day-poster-29696943"
+  startDate: "2013-06-01"
+  endDate: "2013-08-01"
+  summary: "A Comparative Analysis of the Health of the Ni River and Massaponax Creek in Spotsylvania County"
+  highlights:
+    - "Collected macrobenthic samples along routes of the Ni River and Massaponax Creek. Conducted chemical analysis of water samples. Deduced estimates of fecal coliform bacteria present in waters by taking cultures and growing them in the lab."
+    
 # volunteer:
 #   - organization: "Kids Rank"
 #     position: "Data Technician"
@@ -108,9 +105,6 @@ intern:
 #       - "Provided consulting services for file management via visual description of file relationships 
 #         providing increased productivity through highlighting redundancies and inefficient navigation 
 #         paths utilizing hierarchy visualization software (draw.io)."
-#       -	"Conducted requirements gathering and analysis of stakeholder needs to create comprehensive 
-#       solutions in data management."
-
 
 education:
   - institution: "Lake Washington Institute of Technology/Western Governors University"
