@@ -93,19 +93,14 @@ intern:
     highlights:
       - "Collected macrobenthic samples along routes of the Ni River and Massaponax Creek. Conducted chemical analysis of water samples. Deduced estimates of fecal coliform bacteria present in waters by taking cultures and growing them in the lab."
     
-# volunteer:
-#   - organization: "Kids Rank"
-#     position: "Data Technician"
-#     website: ""
-#     startDate: "2024-04-18"
-#     endDate: "2024-06-30"
-#     summary: > 
-#     Providing consulting, organizational, and data analysis for the Executive Director of 501c(3) service-based nonprofit which provides social and emotional enrichment for children of military parents."
-    
-#     highlights:
-#       - "Provided consulting services for file management via visual description of file relationships 
-#         providing increased productivity through highlighting redundancies and inefficient navigation 
-#         paths utilizing hierarchy visualization software (draw.io)."
+volunteer:
+  - organization: "Kids Rank"
+    position: "Data Technician"
+    website: ""
+    startDate: "2024-04-18"
+    endDate: "2024-06-30"
+    summary: > 
+    Provided consulting for organizational data analysis and file management for the Executive Director of 501c(3) service-based nonprofit which provides social and emotional enrichment for children of military parents."
 
 education:
   - institution: "Lake Washington Institute of Technology/Western Governors University"
@@ -164,10 +159,19 @@ publications:
     summary: ""
 
 skills:
+  - name: "Data Analysis"
+  - level: "Intermediate"
+  - keywords:
+      - "Analytical Thinking"
+      - "Attention to Detail"
+      - "Technical Proficiency"
+      - "Business Acumen"
+      - "Communication Skills"
+
   - name: "Front End Development"
-    level: "Intermediate"
+    level: "Professional"
     keywords:
-      - "CSS"
+      - "CSS/SCSS"
       - "Git"
       - "HTML"
       - "JavaScript"
@@ -179,12 +183,12 @@ skills:
       - "Java"
       - "Python"
 
-  - name: "Databases & Visualization"
+  - name: "Databases and Visualization"
     level: "Intermediate"
     keywords:
       - "Excel/VBA"
       - "Python (pandas)"
-      - "SQL"
+      - "SQL/SQLite/MySQL"
 
   - name: "Webscraping"
     level: "Intermediate"
@@ -196,7 +200,7 @@ skills:
       - "Puppeteer"
 
   - name: "App Development"
-    level: "Beginner"
+    level: "Intermediate"
     keywords:
       - "Swift"
       - "React"
@@ -218,7 +222,9 @@ hobbies:
       - "Woodworking"
       - "Tool restoration"
       - "Cooking"
-      - "Small electronics repair"
+      - "Electronics repair"
+      - "CAD"
+      - "Building Furniture"
 # references:
 #   - name: "Erlich Bachman"
 #     reference: >
