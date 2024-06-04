@@ -34,17 +34,12 @@ work:
     startDate: "2023-9-01"
     endDate: "2024-6-30"
     summary: >
-      Provider of analyses, consulting, and deliverables for a variety of businesses and operating 
-      structures (for-profit and nonprofit). 
+      Provider of analyses, consulting, and deliverables for a variety of businesses and operating structures (for-profit and nonprofit). 
     highlights:
-      - "Provided data templating and organization crucial for visual production team, ensuring 
-        accuracy and timely deliverables for a contract with the American Diabetes Association."
-      - "Integrated multiple datasets using Python and MS Excel to categorize and structure data 
-        leading to 30% greater efficiency in data organization."
-      -	"Conducted requirements gathering for program financial analyses, creating data 
-        visualizations and dashboards in MS Excel using pivot tables and charts."
-      - "Routinely performs requirements gathering with stakeholders to ensure deliverables are 
-        meeting contract expectations and aligned with the goals of the individual or organization."
+      - "Provided data templating and organization crucial for visual production team, ensuring accuracy and timely deliverables for a contract with the American Diabetes Association."
+      - "Integrated multiple datasets using Python and MS Excel to categorize and structure data leading to 30% greater efficiency in data organization."
+      -	"Conducted requirements gathering for program financial analyses, creating data visualizations and dashboards in MS Excel using pivot tables and charts."
+      - "Routinely performs requirements gathering with stakeholders to ensure deliverables are meeting contract expectations and aligned with the goals of the individual or organization."
 
   - company: "Inside Out Inspection Services, LLC"
     position: "Administrative Assistant"
@@ -52,20 +47,13 @@ work:
     startDate: "2019-06-01"
     endDate: "2020-06-01"
     summary: >
-      Inside Out Inspection Services (IOIS) offered home and building inspections and education to 
-      the greater Seattle area and surrounding counties. A small, locally owned business, IOIS had 
-      4 employees during the tenure of this position and received high volumes of customer 
-      engagement and requests for services.
+      Inside Out Inspection Services (IOIS) offered home and building inspections and education to the greater Seattle area and surrounding counties. A small, locally owned business, IOIS had 4 employees during the tenure of this position and received high volumes of customer engagement and requests for services.
     highlights:
-      - "Automated routine tasks and improved data processing utilizing Google Sheets, leading 
-        to a 10-20% increase in expense tracking and operational efficiency."
-      - "Collaborated with stakeholders to optimize business-side data collection and retention 
-        using Google Suite tools."
+      - "Automated routine tasks and improved data processing utilizing Google Sheets, leading to a 10-20% increase in expense tracking and operational efficiency."
+      - "Collaborated with stakeholders to optimize business-side data collection and retention using Google Suite tools."
       - "Conducted hardware troubleshooting and optimization, enhancing IT assets."
-      -	"Provided end-user support, troubleshooting hardware and software issues, and 
-        maintaining a high level of customer satisfaction."
-      -	"Documented support requests and resolutions within a spreadsheet dashboard, tracking 
-        trends and identifying areas of suggested improvements to report to CRM software vendor."
+      -	"Provided end-user support, troubleshooting hardware and software issues, and maintaining a high level of customer satisfaction."
+      -	"Documented support requests and resolutions within a spreadsheet dashboard, tracking trends and identifying areas of suggested improvements to report to CRM software vendor."
 
   - company: "Freelance"
     position: "Electronics Repair Technician"
@@ -73,16 +61,11 @@ work:
     startDate: "2016-06-01"
     endDate: "2019-06-01"
     summary: >
-      Performed simple-to-complex electronic repairs and installations on a wide variety of 
-      technology: automobile audio, cellphones, laptops, PCs, small electronics, gaming 
-      consoles, and power tools.
+      Performed simple-to-complex electronic repairs and installations on a wide variety of technology: automobile audio, cellphones, laptops, PCs, small electronics, gaming consoles, and power tools.
     highlights:
-      - "Diagnosed and performed troubleshooting of hardware and software issues in personal
-        computers, laptops, and other electronic devices."
-      - "Performed repairs, upgrades, and maintenance on various electronic devices including
-        desktops, laptops, tablets, and smartphones."
-      -	"Optimized hardware configurations for Windows, Mac, Linux, Android, and iOS systems 
-        to enhance performance and user experience."
+      - "Diagnosed and performed troubleshooting of hardware and software issues in personal computers, laptops, and other electronic devices."
+      - "Performed repairs, upgrades, and maintenance on various electronic devices including desktops, laptops, tablets, and smartphones."
+      -	"Optimized hardware configurations for Windows, Mac, Linux, Android, and iOS systems to enhance performance and user experience."
 
   - company: "The University of Virginia"
     position: "Admissions & Financial Aid Specialist"
@@ -90,18 +73,12 @@ work:
     startDate: "2014-01-01"
     endDate: "2016-05-01"
     summary: >
-      The School of Architecture at the University of Virginia contains Undergraduate, Graduate, and Doctorate-level 
-      programs and concentrations in Architecture, Architectural History, Landscape Architecture, and Urban Planning.
+      The School of Architecture at the University of Virginia contains Undergraduate, Graduate, and Doctorate-level programs and concentrations in Architecture, Architectural History, Landscape Architecture, and Urban Planning.
     highlights:
-      - "Created reports enabling better visualization of fiscal allocation and analysis of student demographics, 
-        offering valuable insights for admissions and budgeting decisions."
-      - "Spearheaded data filtering methods, reducing quarterly expense reconciliation time by up to 75%, 
-        resulting in more efficient processes."
-      - "Advised staff and faculty on use of complex datasets and provided support in incorporating new 
-        features, ensuring optimal utilization of reports while maintaining FERPA compliance."
-      - "Acted as a liaison between students, staff, and faculty and the larger University Financial 
-        Aid office, by communicating student needs and translating technical requirements back to students, 
-        staff, and faculty. "
+      - "Created reports enabling better visualization of fiscal allocation and analysis of student demographics, offering valuable insights for admissions and budgeting decisions."
+      - "Spearheaded data filtering methods, reducing quarterly expense reconciliation time by up to 75%, resulting in more efficient processes."
+      - "Advised staff and faculty on use of complex datasets and provided support in incorporating new features, ensuring optimal utilization of reports while maintaining FERPA compliance."
+      - "Acted as a liaison between students, staff, and faculty and the larger University Financial Aid office, by communicating student needs and translating technical requirements back to students, staff, and faculty. "
   
   - company: "Self-Employed"
     position: "Private Contractor"
@@ -122,25 +99,23 @@ intern:
     endDate: "2013-08-01"
     summary: "A Comparative Analysis of the Health of the Ni River and Massaponax Creek in Spotsylvania County"
     highlights:
-      - "Collected macrobenthic samples along routes of the Ni River and Massaponax Creek. Conducted chemical
-      analysis of water samples. Deduced estimates of fecal coliform bacteria present in waters by taking cultures and
-      growing them in the lab."
+      - "Collected macrobenthic samples along routes of the Ni River and Massaponax Creek. Conducted chemical analysis of water samples. Deduced estimates of fecal coliform bacteria present in waters by taking cultures and growing them in the lab."
       
-volunteer:
-  - organization: "Kids Rank"
-    position: "Data Technician"
-    website: ""
-    startDate: "2024-04-18"
-    endDate: "2024-06-30"
-    summary: > 
-    Providing consulting, organizational, and data analysis for the Executive Director of 501c(3)
-     service-based nonprofit which provides social and emotional enrichment for children of military parents.
-    highlights:
-      - "Provided consulting services for file management via visual description of file relationships 
-        providing increased productivity through highlighting redundancies and inefficient navigation 
-        paths utilizing hierarchy visualization software (draw.io)."
-      -	"Conducted requirements gathering and analysis of stakeholder needs to create comprehensive 
-      solutions in data management."
+# volunteer:
+#   - organization: "Kids Rank"
+#     position: "Data Technician"
+#     website: ""
+#     startDate: "2024-04-18"
+#     endDate: "2024-06-30"
+#     summary: > 
+#     Providing consulting, organizational, and data analysis for the Executive Director of 501c(3) service-based nonprofit which provides social and emotional enrichment for children of military parents."
+    
+#     highlights:
+#       - "Provided consulting services for file management via visual description of file relationships 
+#         providing increased productivity through highlighting redundancies and inefficient navigation 
+#         paths utilizing hierarchy visualization software (draw.io)."
+#       -	"Conducted requirements gathering and analysis of stakeholder needs to create comprehensive 
+#       solutions in data management."
 
 
 education:
