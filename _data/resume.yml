@@ -98,7 +98,7 @@ volunteer:
     position: "Data Technician"
     website: ""
     startDate: "2024-04-18"
-    endDate: "2024-06-30"
+    endDate: "2024-07-20"
     summary: "Provided consulting for organizational data analysis and file management for the Executive Director of 501c(3) service-based nonprofit which provides social and emotional enrichment for children of military parents."
 
 education:
@@ -127,28 +127,81 @@ education:
     gpa: ""
     courses:
       - "GISC 200 - Intro to GIS"
+      - "EESC 307 - Soil Science"
+      - "EESC 323 - Aquatic Ecology"
+      - "CHEM 331 - Environmental Chemistry"
+      - "PHIL 330 - Environmental Ethics"
+      - "EESC 330 - Environmental Regulations compliance."
+      - "BIOL 427 - Ornithology"
+      - "EESC 491 - Independent Research Study: Aquatic Ecology of Streams with Lab"
+  
+  - institution: "Germanna Community College"
+    area: "Science"
+    studyType: "Associate of Arts and Sciences"
+    startDate: "2006-05-26"
+    endDate: "2010-05-11"
+    gpa: ""
+    courses:
+        - "BIO 101 - General Biology 1"
+        - "BIO 102 - General Biology 2"
+        - "ECO 201 - Principles of Economics 1"
+        - "ECO 202 - Principles of Economics 2"
+        - "ENG 233 - The Bible as Literature"
+        - "PLS 241 - International Relations"
+        - "ENG 253 - African-American Literature"
+        - "CHM 111 - Chemistry 1"
+        - "CHM 112 - Chemistry 2"
+        - "SPA 201 - Intermediate Spanish 1"
+        - "SPA 202 - Intermediate Spanish 2"
+        - "MTH 271 - Applied Calculus"
 
-# awards:
-#   - title: ""
-#     date: ""
-#     awarder: ""
-#     summary: ""
+awards:
+  - title: "President's List"
+    date: "2007-05-15"
+    awarder: "Germanna Community College"
+    summary: "Awarded President's List for the Spring 0f 2007, Spring of 2008, Fall of 2008, and Spring of 2009"
+
+  - title: "Dean's List"
+    date: "2007-12-15"
+    awarder: "Germanna Community College"
+    summary: "Awarded Dean's List for the Fall of 2007, Fall of 2009, and Spring of 2010"
+  
+  - title: "Phi theta Kappa (PTK)"
+    date: "2007-12-15"
+    awarder: "Phi Theta Kappa"
+    summary: "Awarded PTK membership for academic performance."
+
 
 certificates:
-  - title: "Business Analytics"
-    date: "2023-11-01"
-    awarder: "Coursera/Tableau"
-    summary: ""
+  - title: "COMPTIA Security+ (In Progress)"
+    date: "2024-10-31"
+    awarder: "COMPTIA"
+    summary: "The Security+ certification, offered by CompTIA (Computing Technology Industry Association), is a globally recognized certification that validates the foundational skills necessary to perform core security functions and pursue an IT security career."
+
+  - title: "COMPTIA Network+ (In Progress)"
+    date: "2024-09-30"
+    awarder: "COMPTIA"
+    summary: "The Network+ certification, offered by CompTIA (Computing Technology Industry Association), is a certification that validates the knowledge and skills required to manage, maintain, troubleshoot, install, and configure basic network infrastructures."
+  
+  - title: "COMPTIA A+ (In Progress)"
+    date: "2024-08-31"
+    awarder: "COMPTIA"
+    summary: "A+ Certification is a professional certification provided by CompTIA (the Computing Technology Industry Association). It is designed to validate the foundational skills and knowledge required for entry-level IT professionals."
+
+  - title: "Healthcare IT Support"
+    date: "2024-03-27"
+    awarder: "Johns Hopkins University on Coursera"
+    summary: "Specialization covers the role of IT support staff in healthcare, health information technology fundamentals, operations and patient safety for healthcare IT staff, and healthcare data security, privacy, and compliance."
 
   - title: "ITIL 4 Foundation Certificate IT Service Management"
     date: "2023-08-11"
     awarder: "PeopleCert"
-    summary: ""
+    summary: "ITIL is a set of best practices for IT service management (ITSM) that helps organizations align their IT services with the needs of their business. The ITIL 4 Foundation certification provides a comprehensive introduction to the ITIL framework and focuses on the key concepts, terminology, and principles of ITIL 4."
 
   - title: "Python Programming"
     date: "2019-06-01"
     awarder: "University of Washington Professional & Continuing Education"
-    summary: ""
+    summary: "This three-course certificate program, provides a thorough understanding of the power of Python libraries as well as standard programming styles and idioms. It explores different aspects of network-based programming with Python, including developing data systems and web applications, and larger systems development issues and advanced topics. It covers unit testing, coding style and Python PEP8 compliance to learn the best practices for writing Python code."
 
 # publications:
 #   - name: ""
@@ -159,7 +212,7 @@ certificates:
 
 skills:
   - name: "Requirements Gathering"
-    level: "Intermediate"
+    level: "Professional"
     keywords:
       - "Interpersonal Skills"
       - "Facilitation Skills"
@@ -168,7 +221,7 @@ skills:
       - "Change Management"
 
   - name: "Data Analysis"
-    level: "Intermediate"
+    level: "Professional"
     keywords:
       - "Analytical Thinking"
       - "Attention to Detail"
@@ -186,13 +239,13 @@ skills:
       - "Node"
 
   - name: "Programming Languages"
-    level: "Intermediate"
+    level: "Professional"
     keywords:
       - "Java"
       - "Python"
 
   - name: "Databases and Visualization"
-    level: "Intermediate"
+    level: "Professional"
     keywords:
       - "Excel/VBA"
       - "Python (pandas)"
@@ -219,7 +272,7 @@ languages:
     fluency: "Native speaker"
 
 interests:
-  - name: "Design/UI"
+  - name: "Design UX/UI"
     keywords:
       - "Accessibility"
       - "Inclusivity"

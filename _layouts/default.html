@@ -18,6 +18,10 @@ layout: base
 ---
 
 {% assign strings = site.data.strings %}
+<!-- Include JSON-LD from schema.json -->
+<script type="application/ld+json">
+  {{ site.data.schema | jsonify }}
+</script>
 
 <article class="page" role="article">
   <header>
